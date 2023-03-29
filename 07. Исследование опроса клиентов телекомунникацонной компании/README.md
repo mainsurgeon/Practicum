@@ -10,3 +10,9 @@
 - Исследование данных с результатами опроса и построение дашборда в Tableau, отражающего текущий уровень потребительской лояльности (NPS) клиентов 
 телекоммуникационной компании;
 - Создание презентации.
+
+[Дашборд](https://public.tableau.com/views/_NPS_Final/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Презентация](https://disk.yandex.ru/i/Yc_gVE-Cu0OfDw)
+
+
